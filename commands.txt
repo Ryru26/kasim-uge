@@ -8,5 +8,8 @@
     8  history
     9  subl | history
    10  history | subl
-   11  history | commands.txt 
-   12  history > commands.txt 
+   11  history | commands.txt
+   12  history > commands.txt
+
+
+added some changes
